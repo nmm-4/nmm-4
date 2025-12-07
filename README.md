@@ -2,10 +2,8 @@
 
 
 ###
-
+<br>
 <img align="right" height="100" src="https://avatars.githubusercontent.com/u/138159926?s=400&u=9a1e967dad562fbb4bb23f91e6de7360cc736c65&v=4"  />
-
-###
 
 <img src="https://raw.githubusercontent.com/nmm-4/nmm-4/output/snake.svg" alt="Snake animation" />
 
